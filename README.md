@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tonyroseman</h1>
 <h3 align="center">I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people</h3>
 
-- 👨‍💻 All of my projects are available at [http://tonyroseman.wuaze.com/](http://tonyroseman.wuaze.com/)
+- 👨‍💻 All of my projects are available at [https://tonyroseman.wuaze.com/](https://tonyroseman.wuaze.com/)
 
 - 📫 How to reach me **tonyroseman217@gmail.com**
 
