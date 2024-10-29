@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Goran Markovic</h1>
 <h3 align="center">I break down complex user experinece problems to create integritiy focussed solutions that connect billions of people</h3>
 
-- 👨‍💻 All of my projects are available at [https://tonyroseman.wuaze.com/](https://tonyroseman.wuaze.com/)
+- 👨‍💻 All of my projects are available at [https://roseman217.wuaze.com/](https://roseman217.wuaze.com/)
 
-- 📫 How to reach me **ruwije96@gmail.com**
+- 📫 How to reach me **mareg2701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
